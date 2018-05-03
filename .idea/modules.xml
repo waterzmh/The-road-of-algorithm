@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/The-road-of-algorithm.iml" filepath="$PROJECT_DIR$/The-road-of-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pascal-triangle/pascal-triangle.iml" filepath="$PROJECT_DIR$/pascal-triangle/pascal-triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quicksort/quicksort.iml" filepath="$PROJECT_DIR$/quicksort/quicksort.iml" />
     </modules>
   </component>
 </project>

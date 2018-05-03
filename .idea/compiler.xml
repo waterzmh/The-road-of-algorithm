@@ -6,10 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="The-road-of-algorithm" />
+        <module name="pascal-triangle" />
+        <module name="quickly-sort" />
+        <module name="quicksort" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="pascal-triangle" target="1.8" />
+      <module name="quickly-sort" target="1.8" />
+      <module name="quicksort" target="1.8" />
       <module name="The-road-of-algorithm" target="1.8" />
     </bytecodeTargetLevel>
   </component>

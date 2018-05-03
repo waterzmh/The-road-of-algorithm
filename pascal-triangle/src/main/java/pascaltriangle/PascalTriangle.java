@@ -1,5 +1,7 @@
 package pascaltriangle;
 
+import java.util.HashMap;
+
 /**
  * @description:杨辉三角
  * @author: zmh

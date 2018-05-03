@@ -1,5 +1,7 @@
 package pascaltriangle;
 
+import java.util.*;
+
 /**
  * @description:
  * @author: zmh
