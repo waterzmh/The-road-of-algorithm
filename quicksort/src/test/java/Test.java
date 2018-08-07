@@ -13,6 +13,7 @@ import java.util.List;
 public class Test {
     @org.junit.Test
     public void test1(){
+        System.out.println(1);
         List<Integer> integerList=new ArrayList<>();
         integerList.add(1);
         integerList.add(8);
