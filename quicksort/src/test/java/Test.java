@@ -31,6 +31,7 @@ public class Test {
         Quick quick=new Quick();
         quick.sort(integerList,0,integerList.size()-1);
         integerList.forEach(i-> System.out.println(i));
+        System.out.println(4);
     }
     @org.junit.Test
     public void test2(){
